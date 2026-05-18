@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/dashboard", "destination": "/" },
+    { "source": "/sales-log", "destination": "/" },
+    { "source": "/sales-dashboard", "destination": "/" },
+    { "source": "/staff-scheduler", "destination": "/" },
+    { "source": "/schedule-request", "destination": "/" }
+  ]
+}
